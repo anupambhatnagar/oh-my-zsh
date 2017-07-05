@@ -103,7 +103,7 @@ main() {
   echo '                        /____/                       ....is now installed!'
   echo ''
   printf "${NORMAL}"
-  env zsh
+  #env zsh
 }
 
 main
